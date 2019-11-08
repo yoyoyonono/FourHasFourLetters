@@ -1,5 +1,6 @@
 # FourHasFourLetters
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 I watched Matt Parker's video on the topic, find it here: https://www.youtube.com/watch?v=LYKn0yUTIU4. I decided to make my own python script to automate the process.
 
 FourHasFourLetters27.py is the Python 2.7 version.
